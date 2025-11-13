@@ -1,0 +1,22 @@
+[13-Mar-2021 17:18:44 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 5.6.40. in /home/stms8849/public_html/core/vendor/composer/platform_check.php on line 25
+[13-Mar-2021 21:55:17 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 5.6.40. in /home/stms8849/public_html/core/vendor/composer/platform_check.php on line 25
+[13-Mar-2021 22:00:47 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 5.6.40. in /home/stms8849/public_html/core/vendor/composer/platform_check.php on line 25
+[23-Mar-2021 09:58:26 Asia/Jakarta] PHP Notice:  Undefined index: REMOTE_ADDR in /home/stms8849/public_html/core/config/location.php on line 138
+[23-Mar-2021 10:50:03 Asia/Jakarta] PHP Notice:  Undefined index: REMOTE_ADDR in /home/stms8849/public_html/core/config/location.php on line 138
+[23-Mar-2021 10:54:05 Asia/Jakarta] PHP Notice:  Undefined index: REMOTE_ADDR in /home/stms8849/public_html/core/config/location.php on line 138
+[23-Mar-2021 10:54:10 Asia/Jakarta] PHP Notice:  Undefined index: REMOTE_ADDR in /home/stms8849/public_html/core/config/location.php on line 138
+[29-Mar-2021 11:26:14 Asia/Jakarta] PHP Notice:  Undefined index: REMOTE_ADDR in /home/stms8849/public_html/core/config/location.php on line 138
+[29-Mar-2021 13:44:19 Asia/Jakarta] PHP Notice:  Undefined index: REMOTE_ADDR in /home/stms8849/public_html/core/config/location.php on line 138
+[01-Apr-2021 10:46:37 Asia/Jakarta] PHP Notice:  Undefined index: REMOTE_ADDR in /home/stms8849/public_html/core/config/location.php on line 138
+[12-Apr-2021 15:56:15 Asia/Jakarta] PHP Notice:  Undefined index: REMOTE_ADDR in /home/stms8849/public_html/core/config/location.php on line 138
+[30-Apr-2021 14:23:54 Asia/Jakarta] PHP Notice:  Undefined index: REMOTE_ADDR in /home/stms8849/public_html/core/config/location.php on line 138
+[20-Oct-2024 22:16:29 Asia/Jakarta] PHP Warning:  Undefined array key "REMOTE_ADDR" in /home/stmi1225/landing/config/location.php on line 138
+[20-Oct-2024 22:18:10 Asia/Jakarta] PHP Warning:  Undefined array key "REMOTE_ADDR" in /home/stmi1225/landing/config/location.php on line 138
+[20-Oct-2024 22:18:57 Asia/Jakarta] PHP Warning:  Undefined array key "REMOTE_ADDR" in /home/stmi1225/landing/config/location.php on line 138
+[20-Oct-2024 22:19:13 Asia/Jakarta] PHP Warning:  Undefined array key "REMOTE_ADDR" in /home/stmi1225/landing/config/location.php on line 138
+[20-Oct-2024 22:20:32 Asia/Jakarta] PHP Warning:  Undefined array key "REMOTE_ADDR" in /home/stmi1225/landing/config/location.php on line 138
+[20-Oct-2024 22:24:30 Asia/Jakarta] PHP Warning:  Undefined array key "REMOTE_ADDR" in /home/stmi1225/landing/config/location.php on line 138
+[18-Nov-2024 19:31:16 Asia/Jakarta] PHP Warning:  Undefined array key "REMOTE_ADDR" in /home/stmi1225/landing/config/location.php on line 138
+[19-Jun-2025 16:08:23 Asia/Jakarta] PHP Warning:  Undefined array key "REMOTE_ADDR" in /home/stmi1225/landing/config/location.php on line 138
+[19-Jun-2025 16:08:53 Asia/Jakarta] PHP Warning:  Undefined array key "REMOTE_ADDR" in /home/stmi1225/landing/config/location.php on line 138
+[19-Jun-2025 16:09:03 Asia/Jakarta] PHP Warning:  Undefined array key "REMOTE_ADDR" in /home/stmi1225/landing/config/location.php on line 138
