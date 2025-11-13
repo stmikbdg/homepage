@@ -84,6 +84,7 @@ Route::group(['middleware' => ['lang']], function () {
     Route::get('/dosen/HG', [LandingPageController::class, 'HG']);
     Route::get('/dosen/MH', [LandingPageController::class, 'MH']);
     Route::get('/dosen/MS', [LandingPageController::class, 'MS']);
+    Route::get('/e-magazine', [LandingPageController::class, 'magazine']);
     Route::get('/pengembangan', [LandingPageController::class, 'menten']);
     
 });

@@ -866,4 +866,12 @@ class LandingPageController extends Controller
         );
         return view ('content.dosen.MS',$data);
     }
+    public function magazine()
+    {
+         $data = array(
+            'title' => 'E-Magazine',
+            'kategori' => 'E-Magazine'
+        );
+        return view ('content.e-magazine',$data);
+    }
 }

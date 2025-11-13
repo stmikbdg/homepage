@@ -154,6 +154,7 @@
                                             <ul class="dropdown">
                                                 <li><a target="_blank" href="https://pmb.stmik-bandung.ac.id/brosur">Brosur</a></li>
                                                 <li><a href="{{ URL::to('/akreditasi-ban-pt') }}">Akreditasi BAN-PT</a></li>
+                                                <li><a href="/e-magazine">E-Magazine</a></li>
                                             </ul>
                                         </li>
                                         <li class="d-block d-lg-none"><a href="#">Lainnya</a>
