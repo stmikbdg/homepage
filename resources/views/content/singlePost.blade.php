@@ -25,7 +25,7 @@
                             <div class="mb-2 px-2">{{ $author }}</div>
                         </div>
                     </div>
-                    <img src="<?= asset('assets/img/bg-img/') ?>/{{ $thumbnail }}" alt="">
+                    <img src="<?= asset('assets/img/bg-img/') ?>/{{ $thumbnail }}" alt="" width="500px">
                 </div>
 
             </div>
